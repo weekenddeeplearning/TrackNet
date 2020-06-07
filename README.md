@@ -21,7 +21,7 @@ cd Code_Baddy
 python predict_video.py  --save_weights_path=weights/model_baddy.h5 --input_video_path=path_to_file.mp4 --output_video_path="tracked.mp4" --n_classes=256
 ```
 
-## Labeling Tool: Make your own dataset
+### Labeling Tool: Make your own dataset
 See the readme file in the LabelingTool directory
 
 ### Training
