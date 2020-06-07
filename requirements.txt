@@ -1,0 +1,9 @@
+argparse
+numpy
+matplotlib
+pillow
+h5py
+pydot
+keras
+tensorflow-gpu
+opencv-python
